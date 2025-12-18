@@ -19,3 +19,5 @@ print(f"""Seja bem vindo de novo {user_name}.\nAlém disso sua idade confirma {u
 ░█▒▒▒███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░░
 ░██▒▒▒▒▒▒▒▒▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█░░░░░
 ░░████████████░░░█████████████████░░░░░░ """)
+
+print('Obrigado')
